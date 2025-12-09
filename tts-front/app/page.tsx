@@ -10,7 +10,7 @@ export default function TTSButton() {
   const englishText = `How do you see the impact of artificial intelligence on our daily lives in the coming years?`;
 
   const languages = [
-    { key: "ar-SA-HamedNeural", text: arabicText, label: "استمع للسؤال العربي" },
+    { key: "ar-EG-SalmaNeural", text: arabicText, label: "استمع للسؤال العربي" },
     { key: "fr-FR-HenriNeural", text: frenchText, label: "Écouter la question française" },
     { key: "en-US-AndrewNeural", text: englishText, label: "Listen to English question" },
   ];
